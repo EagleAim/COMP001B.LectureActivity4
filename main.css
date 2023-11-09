@@ -1,35 +1,43 @@
 p { 
-    color: #640000; 
-    background-color:#640000;
-    border-color: #640050;
+    color: #FFD700; 
+    background-color:	#013220;
+    border-color: #000000;
 }
 
 h1 {
-    color:#640050;
-    background-color:#640050;
-    border-color:#640050;
+    color:#FFD700;
+    background-color:#013220;
+    border-color:#000000;
 }
 
 header {
-    color:#640050;
-    background-color:#640050;
-    border-color:#640050;
+    color:#FFD700;
+    background-color:	#013220;
+    border-color:#000000;
 }
 
 h1 {
-    color:#640050;
-    background-color:#640050;
-    border-color:#640050;
+    color:#FFD700;
+    background-color: #013220;
+    border-color:#000000;
 }
 
 button {
-    color:#640050;
-    background-color:#640050;
-    border-color:#640050;
+    color:#FFD700;
+    background-color:	#013220;
+    border-color:#000000;
 }
 
 footer {
-    color:#640050;
-    background-color:#640050;
-    border-color:#640050;
+    color:#FFD700;
+    background-color:	#013220;
+    border-color:#000000;
 }
+
+html {
+    background-color: #000000;
+}
+
+/* Black represents the mascots fur color being a void black
+gold represents the eyes of the cat standing more out to the reader dirrecting visability towards the text
+Green represents hope or life as we put the life of the cat first
